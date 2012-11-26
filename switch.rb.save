@@ -1,0 +1,11 @@
+def anocopa(ano)
+	case ano
+	when 1895..1993
+		"Não Lembro"
+	when 1994
+		"Estados Unidos"
+	when 1998
+		"França
+	"
+	when 2006
+		"Alemanha"
